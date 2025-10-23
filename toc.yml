@@ -1,0 +1,17 @@
+# Getting started
+- href: getting-started/intro.md
+- topics:
+    - href: getting-started/installation.md
+    - href: getting-started/hello-world.md
+
+# Building apps
+- href: building-apps/intro.md
+- topics:
+    - href: building-apps/data-management.md
+    - href: building-apps/ui-components.md
+
+# Reference
+- href: reference/intro.md
+- topics:
+    - href: reference/markdown-syntax.md
+    - href: reference/configuration.md
