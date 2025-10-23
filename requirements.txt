@@ -1,0 +1,7 @@
+# Core markdown processing
+Markdown==3.5.1
+
+# Markdown extensions
+python-markdown-math==0.8
+markdown-include==0.8.1
+PyYAML==6.0.1
