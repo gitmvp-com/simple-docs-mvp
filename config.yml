@@ -1,0 +1,9 @@
+build:
+    title: Simple Docs MVP
+    input-folder: src
+    output-folder: build
+    related-title: See Also
+
+site:
+    base-url: /
+    theme: default
